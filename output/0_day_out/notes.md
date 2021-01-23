@@ -1,6 +1,6 @@
 Device Variables: 28 (all)
-Model Parameters: 119,618
-Train AUC:  0.9803884693651207
-Test AUC:  0.9031177156177157
+Model Parameters: 116,034
+Train AUC:  0.9784451581170617
+Test AUC:  0.8960761460761462
 
-Number of columns: 868
+Number of columns: 840
